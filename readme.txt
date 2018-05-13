@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Bug branch
-Changed by collegues.
+Changed by collegues and someone else.
